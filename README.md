@@ -1,4 +1,4 @@
 # App_Orcamento
 App that register your expenses, and alows you to see each one in a list!
 
-<img src="C:\Users\João Nuno\Desktop\Desenvolvimento Web Completo (UDEMY)\Secção 9 - ECMA Script (ES6)\app_orcamento.png">
+![app_orcamento](https://github.com/JoaoNuno96/app_orcamento/assets/129988575/d20d796f-7065-4386-a541-da7296fc2db2)
